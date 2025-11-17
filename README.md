@@ -1,2 +1,2 @@
-# difficult-notes-app
-An Extremely Difficult Note App
+# simple-notes-app
+A simple note app for testing the local storage of a browser
